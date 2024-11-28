@@ -44,6 +44,6 @@ json-server --watch db.json --port 5000
 
 npm run dev
 
-![Screenshot](assets/emp-agreement-app-output-1.PNG)
-![Screenshot](assets/emp-agreement-app-output-2.PNG)
-![Screenshot](assets/emp-agreement-app-output-3.PNG)
+![Screenshot](https://github.com/Ayushi2600/Employment-Agreement-Management-App/blob/main/src/assets/emp-agreement-app-output-1.PNG)
+![Screenshot](https://github.com/Ayushi2600/Employment-Agreement-Management-App/blob/main/src/assets/emp-agreement-app-output-2.PNG)
+![Screenshot](https://github.com/Ayushi2600/Employment-Agreement-Management-App/blob/main/src/assets/emp-agreement-app-output-3.PNG)
