@@ -43,3 +43,7 @@ json-server --watch db.json --port 5000
 ## Run the React App
 
 npm run dev
+
+![Screenshot](assets/emp-agreement-app-output-1.png)
+![Screenshot](assets/emp-agreement-app-output-2.png)
+![Screenshot](assets/emp-agreement-app-output-3.png)
