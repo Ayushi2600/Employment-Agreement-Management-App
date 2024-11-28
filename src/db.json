@@ -1,0 +1,39 @@
+{
+  "agreements": [
+    {
+      "id": "6607",
+      "employeeName": "Anime",
+      "department": "Designer",
+      "position": "Web Designer",
+      "agreementDate": "2024-11-23"
+    },
+    {
+      "id": "3cfd",
+      "employeeName": "John Doe",
+      "department": "Engineering",
+      "position": "Web Developer",
+      "agreementDate": "2024-11-04"
+    },
+    {
+      "id": "435b",
+      "employeeName": "Ayushi",
+      "department": "Engineering",
+      "position": "Web Developer",
+      "agreementDate": "2024-11-14"
+    },
+    {
+      "id": "da27",
+      "employeeName": "Shreshth",
+      "department": "Marketing",
+      "position": "Manager",
+      "agreementDate": "2024-11-07"
+    },
+    {
+      "id": "89a3",
+      "employeeName": "Sam",
+      "department": "Sales",
+      "position": "Sale manager",
+      "agreementDate": "2024-11-12"
+    }
+  ]
+}
