@@ -44,6 +44,6 @@ json-server --watch db.json --port 5000
 
 npm run dev
 
-![emp-agreement-app-output-1.PNG](assets/emp-agreement-app-output-1.PNG)
-![emp-agreement-app-output-2.PNG](assets/emp-agreement-app-output-2.PNG)
-![Screenshot](assets/emp-agreement-app-output-3.png)
+![Screenshot](assets/emp-agreement-app-output-1.PNG)
+![Screenshot](assets/emp-agreement-app-output-2.PNG)
+![Screenshot](assets/emp-agreement-app-output-3.PNG)
